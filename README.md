@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Microservices+%7C+Distributed+Systems+%7C+MERN;550%2B+LeetCode+Problems+%7C+Rating+1908+%E2%9A%A1;React+%7C+Node.js+%7C+Docker+%7C+RabbitMQ" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=650&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Microservices+%7C+Distributed+Systems+%7C+MERN;620%2B+LeetCode+Problems+Solved+%E2%9A%A1;React+%7C+Node.js+%7C+Docker+%7C+RabbitMQ" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/ayush-kumar11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ayush110903kumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ayushchahat"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/ayushchahat"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Ayushkumar11/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -61,7 +61,7 @@ const ayush: Developer = {
   currentlyBuilding:
     "Scalable microservices + React enterprise UIs",
   superpower:
-    "Rank 783 globally — LeetCode Weekly Contest 415 ⚡",
+    "620+ problems solved on LeetCode across C++, MySQL & Python3 ⚡",
   openTo: ["SDE-1 Roles", "Backend Engineering", "Full-Stack"],
 };
 ```
@@ -85,7 +85,7 @@ const ayush: Developer = {
     <td>🧠</td><td><b>Learning</b></td><td>System Design · Advanced Distributed Systems</td>
   </tr>
   <tr>
-    <td>⚡</td><td><b>Fun Fact</b></td><td>Ranked 783rd globally in LeetCode Weekly Contest 415</td>
+    <td>⚡</td><td><b>Fun Fact</b></td><td>620+ problems solved on LeetCode, 7 activity badges earned</td>
   </tr>
   <tr>
     <td>📬</td><td><b>Reach Me</b></td><td>ayush110903kumar@gmail.com</td>
@@ -213,14 +213,18 @@ const ayush: Developer = {
 
 | Platform | Achievement |
 |---|---|
-| 🟨 **LeetCode** | 550+ problems solved · Peak rating **1908** · Rank **783** in Weekly Contest 415 |
+| 🟨 **LeetCode** | [Ayushkumar11](https://leetcode.com/u/Ayushkumar11/) · 620+ problems solved · Global Rank **126,462** · 7 badges earned (latest: 200 Days Badge 2024) |
 | 🟩 **GeeksforGeeks** | 650+ problems solved · **GeeksforGeeks Expert Badge** |
 | ✍️ **GFG Articles** | Authored system design articles: Rate Limiting, Messaging Queues, Scalable Systems |
 
 </div>
 
+**LeetCode language breakdown:** C++ (560 solved) · MySQL (34 solved) · Python3 (27 solved)
+
+**Top skill tags:** Array ×320 · String ×127 · Hash Table ×111 · Sorting ×76 · Math ×69 · Depth-First Search ×68 · Dynamic Programming ×93 · Backtracking ×21 · Union-Find ×18
+
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/ayushchahat?theme=dark&font=Fira+Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Ayushkumar11?theme=dark&font=Fira+Code&ext=contest" />
 </div>
 
 ---
@@ -237,7 +241,7 @@ const ayush: Developer = {
 
 - [x] Land a Software Developer role at a top MNC
 - [x] Build a distributed systems project (FlashCart)
-- [x] Cross LeetCode rating **1900+**
+- [x] Cross 600+ problems solved on LeetCode
 - [ ] Contribute to open source projects
 - [ ] Master system design for senior-level interviews
 - [ ] Build a SaaS product from scratch
@@ -253,7 +257,7 @@ const ayush: Developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar11)
 [![Gmail](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush110903kumar@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ayushchahat)
+[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ayushkumar11/)
 
 <br/>
 
